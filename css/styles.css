@@ -26,9 +26,6 @@ html {
     font-size: 15px;
     line-height: 1.5;
   }
-  img {
-    width: 300px;
-  }
   a {
     color: #FFE66D;
   }
@@ -53,7 +50,6 @@ html {
     width: 85%;
     margin: 0 auto;
     padding: 60px 0;
-    background-image: url('/images/mwas_login.png');
   }
   .item-details h3 {
     margin-bottom: 0;
